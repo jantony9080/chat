@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat.iml" filepath="$PROJECT_DIR$/.idea/modules/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chat_main.iml" group="chat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chat_test.iml" group="chat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-model.iml" filepath="$PROJECT_DIR$/.idea/modules/data-model.iml" group="data-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-model/data-model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/data-model/data-model_main.iml" group="data-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-model/data-model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/data-model/data-model_test.iml" group="data-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/process-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/process-manager.iml" group="process-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/process-manager/process-manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/process-manager/process-manager_main.iml" group="process-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/process-manager/process-manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/process-manager/process-manager_test.iml" group="process-manager" />
+    </modules>
+  </component>
+</project>
